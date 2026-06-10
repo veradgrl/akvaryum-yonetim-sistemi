@@ -1,5 +1,3 @@
-# 🤖 AI Geliştirme Günlüğü — Mavi Dünya Akvaryum Yönetim Sistemi
- 
 Bu dosya, proje geliştirilirken çeşitli yapay zeka araçlarına sorulan soruları ve alınan cevapları içermektedir.
  
 ---
